@@ -402,4 +402,4 @@ async def on_message(message):
 
 # VERY IMPORTANT
 
-bot.run("MTQ3NzYzMjEzNDE1OTAwNzgyNg.GmURCs.jNzMlz_c26EwAyZnJhL9rF8qHEtHwpl9AwA448")
+bot.run("MTQ3NzYzMjEzNDE1OTAwNzgyNg.GLqWLv.3UVdD8xmpSuJhvMNsB8FGSJxJdd-Sio2Se7NME")
