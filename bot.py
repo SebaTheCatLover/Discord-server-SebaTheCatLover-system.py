@@ -399,7 +399,3 @@ async def on_message(message):
             await channel.send(f"{message.author.mention} has leveled up to {profiles[user_id]['level']}!")
 
     await bot.process_commands(message)
-
-# VERY IMPORTANT
-
-bot.run("MTQ3NzYzMjEzNDE1OTAwNzgyNg.GLqWLv.3UVdD8xmpSuJhvMNsB8FGSJxJdd-Sio2Se7NME")
